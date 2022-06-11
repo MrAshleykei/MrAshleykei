@@ -13,7 +13,7 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCFxt5IksB1NAODUQkf_RU9Q#gh-light-mode-only)
+[![youtube](https://img.shields.io/youtube/channel/subscribers/UCFxt5IksB1NAODUQkf_RU9Q?style=social)]
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCFxt5IksB1NAODUQkf_RU9Q#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/kibieptr_#gh-light-mode-only)
