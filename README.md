@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm MrAshleykei 👋
 
-<!--
-**MrAshleykei/MrAshleykei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://assets.hongkiat.com/uploads/hello-world-different-programming-languages/fsharp.jpg"/>
 
-Here are some ideas to get you started:
+## About me:
+- 🔭 I’m currently working at Home
+- 🌱 I’m currently learning PHP and Javascript
+- 👯 I’m looking to collaborate on Discord
+- 💎 Making youtube videos.t
+- 💬 Ask me about anything
+- ✍️ ️ Watching Anime and trying out the latest programming languages ​​as a hobby/side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Connect with me:
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCFxt5IksB1NAODUQkf_RU9Q#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCFxt5IksB1NAODUQkf_RU9Q#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/kibieptr_#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/kibieptr_n#gh-dark-mode-only)
