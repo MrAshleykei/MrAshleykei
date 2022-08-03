@@ -3,10 +3,6 @@
 
 <img src="https://i.pinimg.com/originals/8e/17/ae/8e17aeb2c0f75a13e20d7d7cb8d11e01.jpg"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrashleykei&label=Profile%20views&color=0e75b6&style=flat" alt="mrashleykei" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrashleykei" alt="mrashleykei" /></a> </p>
-
 - 🔭 I’m currently working at **Home**
 
 - 💬 Ask me about **anything**
