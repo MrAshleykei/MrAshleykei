@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MrAshleykei</h1>
 <h3 align="center">You can be called by the name Muhammad Abdurrahman Kawakibi</h3>
 
-<img src="https://i.pinimg.com/originals/8e/17/ae/8e17aeb2c0f75a13e20d7d7cb8d11e01.jpg"/>
 
 - 🔭 I’m currently working at **Home**
 
